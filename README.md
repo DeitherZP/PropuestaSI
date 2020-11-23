@@ -1,0 +1,2 @@
+# PropuestaSI
+Este proyecto no engloba ninguna destreza en particular o algo interesante, es un proyecto fuera del contesto educativo-formativo,, es una pequeña practica mía, en la cual el programa preguntaba algo y el usuario tenia que responder dándole clic en los botones, pero queremos que su respuesta sea "si", así que cuando el usuario intente responder con no, este botón se moverá para que el usuario se le haga imposible contestar que no, quedándole como única opción contestar que si.
